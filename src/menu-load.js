@@ -31,7 +31,7 @@ function loadmyMenu () {
     myMenuList1.append(myMenuListA, myMenuListB, myMenuListC);
 
     const myMenuImg1 = new Image();
-    myMenuImg1.src = '../images/fajitas.png';
+    myMenuImg1.src = 'images/fajitas.png';
 
     myMenuItems1.append(myMenuList1, myMenuImg1);
 
@@ -62,7 +62,7 @@ function loadmyMenu () {
     myMenuList2.append(myMenuListD, myMenuListE, myMenuListF);
 
     const myMenuImg2 = new Image();
-    myMenuImg2.src = '../images/tagliyatelle.jpeg';
+    myMenuImg2.src = 'images/tagliyatelle.jpeg';
 
     myMenuItems2.append(myMenuList2, myMenuImg2);
 
@@ -92,7 +92,7 @@ function loadmyMenu () {
     myMenuList3.append(myMenuListG, myMenuListH, myMenuListI);
 
     const myMenuImg3 = new Image();
-    myMenuImg3.src = '../images/salade.jpeg';
+    myMenuImg3.src = 'images/salade.jpeg';
 
     myMenuItems3.append(myMenuList3, myMenuImg3);
 
@@ -121,7 +121,7 @@ function loadmyMenu () {
     myMenuList4.append(myMenuListJ, myMenuListK, myMenuListL);
 
     const myMenuImg4 = new Image();
-    myMenuImg4.src = '../images/shawarma.jpeg';
+    myMenuImg4.src = 'images/shawarma.jpeg';
 
     myMenuItems4.append(myMenuList4, myMenuImg4);
 

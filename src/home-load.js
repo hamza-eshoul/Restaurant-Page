@@ -14,7 +14,7 @@ function loadmyFirstHome () {
     myHeaderContent.classList.add('header-content');
 
     const myHeaderImg = new Image();
-    myHeaderImg.src = '../images/nitcha.jpeg';
+    myHeaderImg.src = 'images/nitcha.jpeg';
 
     const myHeaderDiv = document.createElement('div');
 
